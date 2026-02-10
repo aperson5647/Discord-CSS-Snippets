@@ -1,0 +1,5 @@
+/* Removes the title at the top of the Discord window that tells you where you are in Discord */
+
+div.title_edbb22 {
+    display: none;
+}
