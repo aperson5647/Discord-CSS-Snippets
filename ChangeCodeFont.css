@@ -3,10 +3,10 @@
 */
 
 
-/* Enable to change font of variable width text
+/* Enable to change font of variable width text, also change 'IBM Plex Sans' with the name of a font on your computer, or it will not work. 
 
 * {
-    font-family:'IBM Plex Sans', Times, serif; /* also change 'IBM Plex Sans' with the name of a font on your computer, or it will not work */
+    font-family:'IBM Plex Sans', Times, serif;
 } 
 
  */
