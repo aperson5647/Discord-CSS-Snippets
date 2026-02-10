@@ -1,0 +1,24 @@
+[data-list-item-id*="shop"] {
+    display: none !important;
+}
+[data-list-item-id$="_quests"] { /* quest uses different ID because it conflicts with message requests */
+    display: none !important;
+}
+[data-list-item-id*="nitro"] {
+    display: none !important;
+}
+[data-list-item-id*="shop"] {
+    display: none !important;
+}
+div.button__74017.button__24af7.noHover__24af7 { /* removing gift button */
+    display: none;
+}
+div.container_c0c49a { /* removing gift button padding */
+    display: none;
+}
+div.wrapper__553bf { /* removing padding */
+    display: none;
+}
+div.sectionDivider_e6b769 { /* even more padding */
+    margin-top: 0%;
+}
