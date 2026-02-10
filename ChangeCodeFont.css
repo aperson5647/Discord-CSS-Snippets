@@ -1,0 +1,15 @@
+/* CHANGE 'More Perfect DOS VGA' WITH A FONT INSTALLED ON YOUR COMPUTER OR IT WILL NOT WORK!! 
+   THE NAME MUST BE EXACT TO THE NAME OF THE FONT ON YOUR COMPUTER. IF YOU INSTALLED A FONT RECENTLY AND IT DOES NOT SHOW, TRY RESTARTING YOUR COMPUTER.
+*/
+
+
+/* Enable to change font of variable width text
+
+* {
+    font-family:'IBM Plex Sans', Times, serif; /* also change 'IBM Plex Sans' with the name of a font on your computer, or it will not work */
+} 
+
+ */
+code.vc-shiki-code, code.inline {
+    font-family: 'More Perfect DOS VGA', sans-serif !important;
+}
