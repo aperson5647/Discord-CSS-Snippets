@@ -1,3 +1,5 @@
+/* Removes the Nitro, Shop, and Quests buttons from the side bar, also removes the gift button from the message bar*/
+
 [data-list-item-id*="shop"] {
     display: none !important;
 }
